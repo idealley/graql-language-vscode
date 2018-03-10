@@ -1,4 +1,6 @@
 # Graql
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/idealley/graql-language-vscode.svg)](https://greenkeeper.io/)
 Syntax highliter for graql
 
 ## Features
